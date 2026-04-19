@@ -7,6 +7,8 @@ if sal>=5000:
 else:
 	da=sal*0.2
 	hra=sal*0.1
-total sal=sal+da+hra
+total_sal= sal+da+hra
 print("basic sal=",sal)
-print
+print("da=",da)
+print("hra=",hra)
+print("total salary=",total_sal)
